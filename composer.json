@@ -1,0 +1,14 @@
+{
+    "name": "dynasty/hello",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dynasty\\Hello\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Dynasty\\Hello\\Tests\\": "tests/"
+        }
+    }
+}
